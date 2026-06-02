@@ -5,6 +5,16 @@
    "Library" : "work",
    "Path" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_4/src/main.vhd",
    "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_4/src/debounce.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_4/src/toggle.vhd",
+   "Type" : "vhdl"
   }
  ],
  "IncludePath" : [

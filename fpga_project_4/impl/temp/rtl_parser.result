@@ -5,6 +5,24 @@
   "InstName" : "main",
   "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_4/src/main.vhd",
   "ModuleLine" : 4,
-  "ModuleName" : "main"
+  "ModuleName" : "main",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_4/src/main.vhd",
+    "InstLine" : 16,
+    "InstName" : "debounce_inst",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_4/src/debounce.vhd",
+    "ModuleLine" : 5,
+    "ModuleName" : "debounce_filter"
+   },
+   {
+    "InstFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_4/src/main.vhd",
+    "InstLine" : 26,
+    "InstName" : "led_inst",
+    "ModuleFile" : "C:/Gowin/Gowin_V1.9.11.03_Education_x64/IDE/bin/Documents/fpga_project_4/src/toggle.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "led_toggle"
+   }
+  ]
  }
 ]

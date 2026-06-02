@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="main" T_Register="21(0)" T_Alu="17(0)" T_Lut="12(0)">
+ <SubModule name="debounce_inst" Register="19" Alu="17" Lut="11" T_Register="19(19)" T_Alu="17(17)" T_Lut="11(11)"/>
+ <SubModule name="led_inst" Register="2" Lut="1" T_Register="2(2)" T_Lut="1(1)"/>
+</Module>

@@ -1,7 +1,7 @@
 {
  "BACKGROUND_PROGRAMMING" : "off",
  "COMPRESS" : false,
- "CPU" : false,
+ "CPU" : true,
  "CRC_CHECK" : true,
  "Clock_Route_Order" : 0,
  "Convert_SDP32_36_to_SDP16_18" : true,
